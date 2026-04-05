@@ -1,15 +1,15 @@
-# Sales Dashboard (Power BI)
+# 📊 Sales Dashboard (Power BI)
 
 ## Overview
 Excited to share my first Power BI dashboard built using real-world data!
 This dashboard explores Sri Lanka's inbound tourism patterns for 2025, covering 2 million tourist arrivals from 195 countries worldwide.
 
-## Tools Used
+## 🔧Tools Used
 - Power BI
 - Excel
 - DAX
 
-## Key Insights
+## 💡Key Insights
 December is the peak arrival month, with 0.26M tourists 
 
 📉 A mid-year dip occurs between May – June (off-peak season) 
