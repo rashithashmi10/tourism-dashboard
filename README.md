@@ -1,4 +1,4 @@
-# 📊 Sales Dashboard (Power BI)
+# 🛩️ Sri Lanka Tourism Inbound Dashboard
 
 ## Overview
 Excited to share my first Power BI dashboard built using real-world data!
@@ -12,7 +12,7 @@ This dashboard explores Sri Lanka's inbound tourism patterns for 2025, covering 
 ## 💡Key Insights
 December is the peak arrival month, with 0.26M tourists 
 
-📉 A mid-year dip occurs between May – June (off-peak season) 
+📉 A mid-year dip occurs between May and June (off-peak season) 
 
 🌍 India leads all source markets at 531,511 arrivals (43.91%). The UK and Russia follow at 17.54% and 15.42% respectively 
 
